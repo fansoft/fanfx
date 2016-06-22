@@ -1,0 +1,7 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Copyright (C) 2016 Fansoft Enterprises
+<#if licenseLast??>
+${licenseLast}
+</#if>
